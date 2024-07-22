@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TacoKilla420
+- 👋 Hi, I’m Jamie
 - 👀 I’m interested in Fitness, Techno and Video Gaming 
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on Team Project and Summer reasearch(Internships)
